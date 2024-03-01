@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suat Berk SİMSEK</h1>
-<h3 align="center">A passionate frontend developer from Macedonia</h3>
+<h3 align="center">Tester from Macedonia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
